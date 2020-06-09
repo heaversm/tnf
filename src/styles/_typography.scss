@@ -1,0 +1,17 @@
+.bold {
+  font-weight: bold;
+}
+
+h3 {
+  font-size: $size-h3;
+}
+
+h4 {
+  font-size: $size-h4;
+}
+
+.dark {
+  * {
+    color: $color-lt;
+  }
+}

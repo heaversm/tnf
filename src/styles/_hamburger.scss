@@ -1,0 +1,10 @@
+//https://jonsuh.com/hamburgers/#sass
+$hamburger-layer-color: white;
+$hamburger-active-layer-color: white;
+$hamburger-hover-opacity: 1;
+$hamburger-active-hover-opacity: 1;
+$hamburger-padding-x: 0;
+$hamburger-padding-y: 0;
+$hamburger-layer-width: 27px;
+$hamburger-layer-height: 2.7px;
+@import "../../node_modules/hamburgers/_sass/hamburgers/hamburgers.scss";
